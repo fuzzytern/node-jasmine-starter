@@ -1,0 +1,12 @@
+{
+  "name": "node-with-tests",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
